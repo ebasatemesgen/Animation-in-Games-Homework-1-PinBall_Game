@@ -29,7 +29,7 @@ Welcome to the Pinball Game developed using Processing. This game replicates the
 1. Ensure you have the Processing environment set up on your machine.
 2. Clone/download the repository.
 3. Make sure you place all the sound files in the "sounds" folder.
-4. Open the main `.pde` file using Processing and run the sketch.
+4. Open the painball `.pde` file using Processing and run the sketch.
 
 ## Customization
 
